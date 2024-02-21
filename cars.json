@@ -1,0 +1,554 @@
+  [
+    {
+      "id": "CAR-001",
+      "name": "911",
+      "description": "A high-performance sports car made by German manufacturer Porsche",
+      "topspeed": 210,
+      "concept-car": false,
+      "date_first_produced": "1963-09-12",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Porsche_911_Carrera_4S_%28997%29_front_20100731.jpg/1200px-Porsche_911_Carrera_4S_%28997%29_front_20100731.jpg",
+      "type": "coupe",
+      "features": [
+        "air cooled six-cilinder flat engine",
+        "vented disc brakes",
+        "rear spoiler"
+      ],
+      "Brand": {
+        "id": "BRAND-001",
+        "name": "Porsche",
+        "Country": "Germany",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/porsche.png",
+        "foundedYear": 1931,
+        "website": "www.porsche.com"
+      }
+    },
+    {
+      "id": "CAR-002",
+      "name": "MX-5 Miata",
+      "description": "A lightweight two-seater roadster with a front-engine, rear-wheel-drive layout, produced by Japanese automaker Mazda",
+      "topspeed": 188,
+      "concept-car": false,
+      "date_first_produced": "1989-02-10",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2019_Mazda_MX-5_2.0_Sport_Nav%2B_Roadster_Coupe_Automatic_2.0_Front.jpg/1200px-2019_Mazda_MX-5_2.0_Sport_Nav%2B_Roadster_Coupe_Automatic_2.0_Front.jpg",
+      "type": "convertible",
+      "features": [
+        "retractable hardtop",
+        "LED headlights",
+        "Bose sound system"
+      ],
+      "Brand": {
+        "id": "BRAND-002",
+        "name": "Mazda",
+        "Country": "Japan",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/mazda.png",
+        "foundedYear": 1920,
+        "website": "www.mazda.com"
+      }
+    },
+    {
+      "id": "CAR-003",
+      "name": "Genesis G80",
+      "description": "A midsize luxury sedan that offers a smooth ride, a spacious interior, and a sleek design, developed by South Korean company Hyundai",
+      "topspeed": 261,
+      "concept-car": false,
+      "date_first_produced": "2016-06-02",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2020_Genesis_G80_3.5T_AWD_Sport_Prestige.jpg/1200px-2020_Genesis_G80_3.5T_AWD_Sport_Prestige.jpg",
+      "type": "sedan",
+      "features": [
+        "adaptive cruise control",
+        "lane-keeping assist",
+        "surround-view camera"
+      ],
+      "Brand": {
+        "id": "BRAND-003",
+        "name": "Hyundai",
+        "Country": "South Korea",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/hyundai.png",
+        "foundedYear": 1967,
+        "website": "www.hyundai.com"
+      }
+    },
+    {
+      "id": "CAR-004",
+      "name": "Mustang GT",
+      "description": "A muscle car with a powerful V8 engine and a distinctive design, manufactured by American brand Ford",
+      "topspeed": 250,
+      "concept-car": false,
+      "date_first_produced": "1964-04-17",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2015_Ford_Mustang_GT_%2818494870578%29.jpg/1200px-2015_Ford_Mustang_GT_%2818494870578%29.jpg",
+      "type": "coupe",
+      "features": [
+        "burning rubber",
+        "drag racing",
+        "roaring"
+      ],
+      "Brand": {
+        "id": "BRAND-004",
+        "name": "Ford",
+        "Country": "USA",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/ford.png",
+        "foundedYear": 1903,
+        "website": "www.ford.com"
+      }
+    },
+    {
+      "id": "CAR-005",
+      "name": "Prius",
+      "description": "A hybrid car that combines a gasoline engine and an electric motor, created by Japanese maker Toyota",
+      "topspeed": 180,
+      "concept-car": false,
+      "date_first_produced": "1997-12-10",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Toyota_Prius_%28ZVW50R%29_Hybrid_liftback_%282018-11-02%29_01.jpg/1200px-2016_Toyota_Prius_%28ZVW50R%29_Hybrid_liftback_%282018-11-02%29_01.jpg",
+      "type": "hatchback",
+      "features": [
+        "saving fuel",
+        "eco-friendly",
+        "recycling"
+      ],
+      "Brand": {
+        "id": "BRAND-005",
+        "name": "Toyota",
+        "Country": "Japan",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/toyota.png",
+        "foundedYear": 1937,
+        "website": "www.toyota.com"
+      }
+    },
+    {
+      "id": "CAR-006",
+      "name": "488 Spider",
+      "description": "A supercar with a mid-engine, rear-wheel-drive layout and a retractable hardtop, built by Italian manufacturer Ferrari",
+      "topspeed": 330,
+      "concept-car": false,
+      "date_first_produced": "2015-09-14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ferrari_488_Spider_-_Mondial_de_l%27Automobile_de_Paris_2016_-_001.jpg/1200px-Ferrari_488_Spider_-_Mondial_de_l%27Automobile_de_Paris_2016_-_001.jpg",
+      "type": "convertible",
+      "features": [
+        "speeding",
+        "cornering",
+        "impressing"
+      ],
+      "Brand": {
+        "id": "BRAND-006",
+        "name": "Ferrari",
+        "Country": "Italy",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/ferrari.png",
+        "foundedYear": 1947,
+        "website": "www.ferrari.com"
+      }
+    },
+    {
+      "id": "CAR-007",
+      "name": "Beetle",
+      "description": "A compact car with a rear-engine, rear-wheel-drive layout and a rounded shape, produced by German company Volkswagen",
+      "topspeed": 150,
+      "concept-car": false,
+      "date_first_produced": "1938-07-10",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VW_Beetle_1303_1973.jpg/1200px-VW_Beetle_1303_1973.jpg",
+      "type": "sedan",
+      "features": [
+        "traveling",
+        "camping",
+        "flower power"
+      ],
+      "Brand": {
+        "id": "BRAND-007",
+        "name": "Volkswagen",
+        "Country": "Germany",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/volkswagen.png",
+        "foundedYear": 1937,
+        "website": "www.vw.com"
+      }
+    },
+    {
+      "id": "CAR-008",
+      "name": "Cooper",
+      "description": "A small car with a front-engine, front-wheel-drive layout and a British style, made by English brand Mini",
+      "topspeed": 210,
+      "concept-car": false,
+      "date_first_produced": "1960-08-26",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mini_Cooper_S_1964.jpg/1200px-Mini_Cooper_S_1964.jpg",
+      "type": "hatchback",
+      "features": [
+        "parking",
+        "rallying",
+        "escaping"
+      ],
+      "Brand": {
+        "id": "BRAND-008",
+        "name": "Mini",
+        "Country": "UK",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/mini.png",
+        "foundedYear": 1959,
+        "website": "www.mini.com"
+      }
+    },
+    {
+      "id": "CAR-009",
+      "name": "Aventador",
+      "description": "A hypercar with a mid-engine, all-wheel-drive layout and a scissor door design, manufactured by Italian maker Lamborghini",
+      "topspeed": 350,
+      "concept-car": false,
+      "date_first_produced": "2011-02-28",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lamborghini_Aventador_LP_750-4_SV_%282%29.jpg/1200px-Lamborghini_Aventador_LP_750-4_SV_%282%29.jpg",
+      "type": "coupe",
+      "features": [
+        "scissor doors",
+        "carbon fiber",
+        "V12 engine"
+      ],
+      "Brand": {
+        "id": "BRAND-009",
+        "name": "Lamborghini",
+        "Country": "Italy",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/lamborghini.png",
+        "foundedYear": 1963,
+        "website": "www.lamborghini.com"
+      }
+    },
+    {
+      "id": "CAR-010",
+      "name": "Civic",
+      "description": "A compact car with a front-engine, front-wheel-drive layout and a reliable performance, produced by Japanese company Honda",
+      "topspeed": 220,
+      "concept-car": false,
+      "date_first_produced": "1972-07-11",
+      "image_url": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/honda.png",
+      "type": "sedan",
+      "features": [
+        "fuel efficiency",
+        "safety",
+        "versatility"
+      ],
+      "Brand": {
+        "id": "BRAND-010",
+        "name": "Honda",
+        "Country": "Japan",
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Honda_logo.svg/2560px-Honda_logo.svg.png",
+        "foundedYear": 1948,
+        "website": "www.honda.com"
+      }
+    },
+    {
+      "id": "CAR-011",
+      "name": "Corvette",
+      "description": "A sports car with a front-engine, rear-wheel-drive layout and a fiberglass body, made by American manufacturer Chevrolet",
+      "topspeed": 312,
+      "concept-car": false,
+      "date_first_produced": "1953-06-30",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2019_Chevrolet_Corvette_ZR1_%283%29.jpg/1200px-2019_Chevrolet_Corvette_ZR1_%283%29.jpg",
+      "type": "coupe",
+      "features": [
+        "fiberglass body",
+        "pop-up headlights",
+        "crossed flags emblem"
+      ],
+      "Brand": {
+        "id": "BRAND-011",
+        "name": "Chevrolet",
+        "Country": "USA",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/chevrolet.png",
+        "foundedYear": 1911,
+        "website": "www.chevrolet.com"
+      }
+    },
+    {
+      "id": "CAR-012",
+      "name": "A6",
+      "description": "A mid-size luxury car with a front-engine, all-wheel-drive layout and a sophisticated style, made by German manufacturer Audi",
+      "topspeed": 250,
+      "concept-car": false,
+      "date_first_produced": "1994-06-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Audi_A6_C8_Limousine_50_TDI_quattro_S-line.jpg/1200px-Audi_A6_C8_Limousine_50_TDI_quattro_S-line.jpg",
+      "type": "sedan",
+      "features": [
+        "MMI system",
+        "LED headlights",
+        "adaptive cruise control"
+      ],
+      "Brand": {
+        "id": "BRAND-012",
+        "name": "Audi",
+        "Country": "Germany",
+        "Logo": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/audi.png",
+        "foundedYear": 1910,
+        "website": "www.audi.com"
+      }
+    },
+    {
+      "id": "CAR-013",
+      "name": "Camry",
+      "description": "A mid-size car with a front-engine, front-wheel-drive layout and a comfortable ride, created by Japanese maker Toyota",
+      "topspeed": 210,
+      "concept-car": false,
+      "date_first_produced": "1982-03-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2018_Toyota_Camry_%28ASV70R%29_SL_sedan_%282018-08-24%29_01.jpg/1200px-2018_Toyota_Camry_%28ASV70R%29_SL_sedan_%282018-08-24%29_01.jpg",
+      "type": "sedan",
+      "features": [
+        "comfort",
+        "reliability",
+        "space"
+      ],
+      "Brand": {
+        "id": "BRAND-005",
+        "name": "Toyota",
+        "Country": "Japan",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/toyota.png",
+        "foundedYear": 1937,
+        "website": "www.toyota.com"
+      }
+    },
+    {
+      "id": "CAR-014",
+      "name": "Land Cruiser",
+      "description": "A full-size SUV with a front-engine, four-wheel-drive layout and a rugged performance, produced by Japanese company Toyota",
+      "topspeed": 220,
+      "concept-car": false,
+      "date_first_produced": "1951-08-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2018_Toyota_Land_Cruiser_%28VDJ200R%29_GXL_wagon_%282018-11-02%29_01.jpg/1200px-2018_Toyota_Land_Cruiser_%28VDJ200R%29_GXL_wagon_%282018-11-02%29_01.jpg",
+      "type": "SUV",
+      "features": [
+        "off-road capability",
+        "durability",
+        "luxury"
+      ],
+      "Brand": {
+        "id": "BRAND-005",
+        "name": "Toyota",
+        "Country": "Japan",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/toyota.png",
+        "foundedYear": 1937,
+        "website": "www.toyota.com"
+      }
+    },
+    {
+      "id": "CAR-015",
+      "name": "Cayenne",
+      "description": "A mid-size SUV with a front-engine, all-wheel-drive layout and a sporty performance, made by German manufacturer Porsche",
+      "topspeed": 286,
+      "concept-car": false,
+      "date_first_produced": "2002-09-03",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2018_Porsche_Cayenne_S_3.0_Front.jpg/1200px-2018_Porsche_Cayenne_S_3.0_Front.jpg",
+      "type": "SUV",
+      "features": [
+        "turbocharged engines",
+        "adaptive suspension",
+        "panoramic roof"
+      ],
+      "Brand": {
+        "id": "BRAND-001",
+        "name": "Porsche",
+        "Country": "Germany",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/porsche.png",
+        "foundedYear": 1931,
+        "website": "www.porsche.com"
+      }
+    },
+    {
+      "id": "CAR-016",
+      "name": "Macan",
+      "description": "A compact SUV with a front-engine, all-wheel-drive layout and a dynamic design, developed by German company Porsche",
+      "topspeed": 272,
+      "concept-car": false,
+      "date_first_produced": "2014-02-20",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_Porsche_Macan_S_3.0_Front.jpg/1200px-2018_Porsche_Macan_S_3.0_Front.jpg",
+      "type": "SUV",
+      "features": [
+        "sporty handling",
+        "premium interior",
+        "LED headlights"
+      ],
+      "Brand": {
+        "id": "BRAND-001",
+        "name": "Porsche",
+        "Country": "Germany",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/porsche.png",
+        "foundedYear": 1931,
+        "website": "www.porsche.com"
+      }
+    },
+    {
+      "id": "CAR-017",
+      "name": "Focus",
+      "description": "A compact car with a front-engine, front-wheel-drive layout and a sporty handling, manufactured by American brand Ford",
+      "topspeed": 250,
+      "concept-car": false,
+      "date_first_produced": "1998-08-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2018_Ford_Focus_ST-Line_X_1.0_Front.jpg/1200px-2018_Ford_Focus_ST-Line_X_1.0_Front.jpg",
+      "type": "hatchback",
+      "features": [
+        "turbocharged engine",
+        "SYNC system",
+        "active park assist"
+      ],
+      "Brand": {
+        "id": "BRAND-004",
+        "name": "Ford",
+        "Country": "USA",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/ford.png",
+        "foundedYear": 1903,
+        "website": "www.ford.com"
+      }
+    },
+    {
+      "id": "CAR-018",
+      "name": "Corsa",
+      "description": "A subcompact car with a front-engine, front-wheel-drive layout and a practical design, produced by German company Opel",
+      "topspeed": 195,
+      "concept-car": false,
+      "date_first_produced": "1982-09-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Opel_Corsa_F_1.2_Innovation_%28E%29_%E2%80%93_Frontansicht%2C_29._Februar_2020%2C_D%C3%BCsseldorf.jpg/1200px-Opel_Corsa_F_1.2_Innovation_%28E%29_%E2%80%93_Frontansicht%2C_29._Februar_2020%2C_D%C3%BCsseldorf.jpg",
+      "type": "hatchback",
+      "features": [
+        "electric option",
+        "multimedia system",
+        "lane assist"
+      ],
+      "Brand": {
+        "id": "BRAND-013",
+        "name": "Opel",
+        "Country": "Germany",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/opel.png",
+        "foundedYear": 1862,
+        "website": "www.opel.com"
+      }
+    },
+    {
+      "id": "CAR-019",
+      "name": "Phantom",
+      "description": "A luxury car with a front-engine, rear-wheel-drive layout and a refined style, made by British manufacturer Rolls Royce",
+      "topspeed": 250,
+      "concept-car": false,
+      "date_first_produced": "2003-01-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rolls-Royce_Phantom_VIII_2018.jpg/1200px-Rolls-Royce_Phantom_VIII_2018.jpg",
+      "type": "sedan",
+      "features": [
+        "starlight headliner",
+        "bespoke audio",
+        "picnic tables"
+      ],
+      "Brand": {
+        "id": "BRAND-014",
+        "name": "Rolls Royce",
+        "Country": "UK",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/rolls-royce.png",
+        "foundedYear": 1904,
+        "website": "www.rolls-roycemotorcars.com"
+      }
+    },
+    {
+      "id": "CAR-020",
+      "name": "6½ Litre",
+      "description": "A vintage car with a front-engine, rear-wheel-drive layout and a powerful engine, developed by British company Bentley",
+      "topspeed": 160,
+      "concept-car": false,
+      "date_first_produced": "1926-10-01",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bentley_6%C2%BD_Litre_1927.jpg/1200px-Bentley_6%C2%BD_Litre_1927.jpg",
+      "type": "tourer",
+      "features": [
+        "six-cylinder engine",
+        "aluminium pistons",
+        "four-speed gearbox"
+      ],
+      "Brand": {
+        "id": "BRAND-015",
+        "name": "Bentley",
+        "Country": "UK",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/bentley.png",
+        "foundedYear": 1919,
+        "website": "www.bentleymotors.com"
+      }
+    },
+    {
+      "id": "CAR-021",
+      "name": "911",
+      "description": "A rear-engined fastback that is a legend for its performance and handling, developed by German company Porsche",
+      "topspeed": 308,
+      "concept-car": false,
+      "date_first_produced": "1963-09-12",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Porsche_911_Carrera_S_II_%28Typ_991%29_%E2%80%93_Frontansicht%2C_31._M%C3%A4rz_2012%2C_D%C3%BCsseldorf.jpg/1200px-Porsche_911_Carrera_S_II_%28Typ_991%29_%E2%80%93_Frontansicht%2C_31._M%C3%A4rz_2012%2C_D%C3%BCsseldorf.jpg",
+      "type": "fastback",
+      "features": [
+        "twin-turbo flat-six engines",
+        "impeccable steering feel",
+        "premium interior"
+      ],
+      "Brand": {
+        "id": "BRAND-001",
+        "name": "Porsche",
+        "Country": "Germany",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/porsche.png",
+        "foundedYear": 1931,
+        "website": "www.porsche.com"
+      }
+    },
+    {
+      "id": "CAR-022",
+      "name": "V12 Speedster",
+      "description": "A limited edition performance-bred predator that combines a 5.2-litre twin-turbo V12 engine with an open cockpit and a lightweight body, developed by British company Aston Martin",
+      "topspeed": 300,
+      "concept-car": true,
+      "date_first_produced": "2021-10-20",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aston_Martin_V12_Speedster_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg/1200px-Aston_Martin_V12_Speedster_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg",
+      "type": "speedster",
+      "features": [
+        "no roof or windshield",
+        "satin black carbon fiber body",
+        "21-inch forged center lock alloy wheels"
+      ],
+      "Brand": {
+        "id": "BRAND-016",
+        "name": "Aston Martin",
+        "Country": "United Kingdom",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/aston-martin.png",
+        "foundedYear": 1913,
+        "website": "www.astonmartin.com"
+      }
+    },
+    {
+      "id": "CAR-023",
+      "name": "Valhalla",
+      "description": "A mid-engine supercar that features a hybrid powertrain, a carbon fiber chassis, and a cutting-edge aerodynamic design, developed by British company Aston Martin in collaboration with Red Bull Racing",
+      "topspeed": 330,
+      "concept-car": true,
+      "date_first_produced": "2023-06-30",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aston_Martin_Valhalla_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg/1200px-Aston_Martin_Valhalla_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg",
+      "type": "supercar",
+      "features": [
+        "turbocharged V6 engine with electric motors",
+        "active aerodynamics with variable air inlets",
+        "lightweight carbon fiber bodywork"
+      ],
+      "Brand": {
+        "id": "BRAND-016",
+        "name": "Aston Martin",
+        "Country": "United Kingdom",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/aston-martin.png",
+        "foundedYear": 1913,
+        "website": "www.astonmartin.com"
+      }
+    },
+    {
+      "id": "CAR-024",
+      "name": "V60",
+      "description": "A spacious and versatile station wagon that combines a stylish design, a comfortable interior, and a range of efficient powertrains, developed by Swedish company Volvo",
+      "topspeed": 250,
+      "concept-car": false,
+      "date_first_produced": "2010-07-22",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Volvo_V60_D4_R-Design_%28II%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg/1200px-Volvo_V60_D4_R-Design_%28II%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg",
+      "type": "station wagon",
+      "features": [
+        "plug-in hybrid option",
+        "integrated Google services",
+        "advanced safety systems"
+      ],
+      "Brand": {
+        "id": "BRAND-017",
+        "name": "Volvo",
+        "Country": "Sweden",
+        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/volvo.png",
+        "foundedYear": 1927,
+        "website": "www.volvocars.com"
+      }
+    }
+  ]
