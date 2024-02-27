@@ -6,7 +6,7 @@
       "topspeed": 210,
       "concept_car": false,
       "date_first_produced": "1963-09-12",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Porsche_911_Carrera_4S_%28997%29_front_20100731.jpg/1200px-Porsche_911_Carrera_4S_%28997%29_front_20100731.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/911_1963.png",
       "type": "coupe",
       "features": [
         "air cooled six-cilinder flat engine",
@@ -29,7 +29,7 @@
       "topspeed": 188,
       "concept_car": false,
       "date_first_produced": "1989-02-10",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2019_Mazda_MX-5_2.0_Sport_Nav%2B_Roadster_Coupe_Automatic_2.0_Front.jpg/1200px-2019_Mazda_MX-5_2.0_Sport_Nav%2B_Roadster_Coupe_Automatic_2.0_Front.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/MX5.png",
       "type": "convertible",
       "features": [
         "retractable hardtop",
@@ -40,7 +40,7 @@
         "id": "BRAND-002",
         "name": "Mazda",
         "Country": "Japan",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/mazda.png",
+        "Logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/mazda.png",
         "foundedYear": 1920,
         "website": "www.mazda.com"
       }
@@ -63,7 +63,7 @@
         "id": "BRAND-003",
         "name": "Hyundai",
         "Country": "South Korea",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/hyundai.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/hyundai.png",
         "foundedYear": 1967,
         "website": "www.hyundai.com"
       }
@@ -86,7 +86,7 @@
         "id": "BRAND-004",
         "name": "Ford",
         "Country": "USA",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/ford.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/ford.png",
         "foundedYear": 1903,
         "website": "www.ford.com"
       }
@@ -109,7 +109,7 @@
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/toyota.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/toyota.png",
         "foundedYear": 1937,
         "website": "www.toyota.com"
       }
@@ -132,7 +132,7 @@
         "id": "BRAND-006",
         "name": "Ferrari",
         "Country": "Italy",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/ferrari.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/ferrari.png",
         "foundedYear": 1947,
         "website": "www.ferrari.com"
       }
@@ -155,7 +155,7 @@
         "id": "BRAND-007",
         "name": "Volkswagen",
         "Country": "Germany",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/volkswagen.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/volkswagen.png",
         "foundedYear": 1937,
         "website": "www.vw.com"
       }
@@ -178,7 +178,7 @@
         "id": "BRAND-008",
         "name": "Mini",
         "Country": "UK",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/mini.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/mini.png",
         "foundedYear": 1959,
         "website": "www.mini.com"
       }
@@ -201,7 +201,7 @@
         "id": "BRAND-009",
         "name": "Lamborghini",
         "Country": "Italy",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/lamborghini.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/lamborghini.png",
         "foundedYear": 1963,
         "website": "www.lamborghini.com"
       }
@@ -213,7 +213,7 @@
       "topspeed": 220,
       "concept_car": false,
       "date_first_produced": "1972-07-11",
-      "image_url": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/honda.png",
+      "image_url": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/honda.png",
       "type": "sedan",
       "features": [
         "fuel efficiency",
@@ -247,7 +247,7 @@
         "id": "BRAND-011",
         "name": "Chevrolet",
         "Country": "USA",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/chevrolet.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/chevrolet.png",
         "foundedYear": 1911,
         "website": "www.chevrolet.com"
       }
@@ -270,7 +270,7 @@
         "id": "BRAND-012",
         "name": "Audi",
         "Country": "Germany",
-        "Logo": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/audi.png",
+        "Logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/master/logos/optimized/audi.png",
         "foundedYear": 1910,
         "website": "www.audi.com"
       }
@@ -293,7 +293,7 @@
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/toyota.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/toyota.png",
         "foundedYear": 1937,
         "website": "www.toyota.com"
       }
@@ -316,7 +316,7 @@
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/toyota.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/toyota.png",
         "foundedYear": 1937,
         "website": "www.toyota.com"
       }
@@ -351,7 +351,7 @@
       "topspeed": 272,
       "concept_car": false,
       "date_first_produced": "2014-02-20",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_Porsche_Macan_S_3.0_Front.jpg/1200px-2018_Porsche_Macan_S_3.0_Front.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/macan.png",
       "type": "SUV",
       "features": [
         "sporty handling",
@@ -385,7 +385,7 @@
         "id": "BRAND-004",
         "name": "Ford",
         "Country": "USA",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/ford.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/ford.png",
         "foundedYear": 1903,
         "website": "www.ford.com"
       }
@@ -408,7 +408,7 @@
         "id": "BRAND-013",
         "name": "Opel",
         "Country": "Germany",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/opel.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/opel.png",
         "foundedYear": 1862,
         "website": "www.opel.com"
       }
@@ -431,7 +431,7 @@
         "id": "BRAND-014",
         "name": "Rolls Royce",
         "Country": "UK",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/rolls-royce.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/rolls-royce.png",
         "foundedYear": 1904,
         "website": "www.rolls-roycemotorcars.com"
       }
@@ -454,7 +454,7 @@
         "id": "BRAND-015",
         "name": "Bentley",
         "Country": "UK",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/bentley.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/bentley.png",
         "foundedYear": 1919,
         "website": "www.bentleymotors.com"
       }
@@ -500,7 +500,7 @@
         "id": "BRAND-016",
         "name": "Aston Martin",
         "Country": "United Kingdom",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/aston-martin.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/aston-martin.png",
         "foundedYear": 1913,
         "website": "www.astonmartin.com"
       }
@@ -523,7 +523,7 @@
         "id": "BRAND-016",
         "name": "Aston Martin",
         "Country": "United Kingdom",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/aston-martin.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/aston-martin.png",
         "foundedYear": 1913,
         "website": "www.astonmartin.com"
       }
@@ -546,7 +546,7 @@
         "id": "BRAND-017",
         "name": "Volvo",
         "Country": "Sweden",
-        "Logo": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/optimized/volvo.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/volvo.png",
         "foundedYear": 1927,
         "website": "www.volvocars.com"
       }
