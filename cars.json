@@ -52,7 +52,7 @@
       "topspeed": 261,
       "concept_car": false,
       "date_first_produced": "2016-06-02",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2020_Genesis_G80_3.5T_AWD_Sport_Prestige.jpg/1200px-2020_Genesis_G80_3.5T_AWD_Sport_Prestige.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/Genesis_G80.png",
       "type": "sedan",
       "features": [
         "adaptive cruise control",
@@ -63,7 +63,7 @@
         "id": "BRAND-003",
         "name": "Hyundai",
         "Country": "South Korea",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/hyundai.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/hyundai.png",
         "foundedYear": 1967,
         "website": "www.hyundai.com"
       }
@@ -75,7 +75,7 @@
       "topspeed": 250,
       "concept_car": false,
       "date_first_produced": "1964-04-17",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2015_Ford_Mustang_GT_%2818494870578%29.jpg/1200px-2015_Ford_Mustang_GT_%2818494870578%29.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/mustang.png",
       "type": "coupe",
       "features": [
         "burning rubber",
@@ -86,7 +86,7 @@
         "id": "BRAND-004",
         "name": "Ford",
         "Country": "USA",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/ford.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/ford.png",
         "foundedYear": 1903,
         "website": "www.ford.com"
       }
@@ -98,7 +98,7 @@
       "topspeed": 180,
       "concept_car": false,
       "date_first_produced": "1997-12-10",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Toyota_Prius_%28ZVW50R%29_Hybrid_liftback_%282018-11-02%29_01.jpg/1200px-2016_Toyota_Prius_%28ZVW50R%29_Hybrid_liftback_%282018-11-02%29_01.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/prius.png",
       "type": "hatchback",
       "features": [
         "saving fuel",
@@ -109,7 +109,7 @@
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/toyota.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/toyota.png",
         "foundedYear": 1937,
         "website": "www.toyota.com"
       }
@@ -121,7 +121,7 @@
       "topspeed": 330,
       "concept_car": false,
       "date_first_produced": "2015-09-14",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ferrari_488_Spider_-_Mondial_de_l%27Automobile_de_Paris_2016_-_001.jpg/1200px-Ferrari_488_Spider_-_Mondial_de_l%27Automobile_de_Paris_2016_-_001.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/488_Spider.png",
       "type": "convertible",
       "features": [
         "speeding",
@@ -132,7 +132,7 @@
         "id": "BRAND-006",
         "name": "Ferrari",
         "Country": "Italy",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/ferrari.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/ferrari.png",
         "foundedYear": 1947,
         "website": "www.ferrari.com"
       }
@@ -144,7 +144,7 @@
       "topspeed": 150,
       "concept_car": false,
       "date_first_produced": "1938-07-10",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VW_Beetle_1303_1973.jpg/1200px-VW_Beetle_1303_1973.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/beetle.png",
       "type": "sedan",
       "features": [
         "traveling",
@@ -155,7 +155,7 @@
         "id": "BRAND-007",
         "name": "Volkswagen",
         "Country": "Germany",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/volkswagen.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volkswagen.png",
         "foundedYear": 1937,
         "website": "www.vw.com"
       }
@@ -167,7 +167,7 @@
       "topspeed": 210,
       "concept_car": false,
       "date_first_produced": "1960-08-26",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mini_Cooper_S_1964.jpg/1200px-Mini_Cooper_S_1964.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/cooper.png",
       "type": "hatchback",
       "features": [
         "parking",
@@ -178,7 +178,7 @@
         "id": "BRAND-008",
         "name": "Mini",
         "Country": "UK",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/mini.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/mini.png",
         "foundedYear": 1959,
         "website": "www.mini.com"
       }
@@ -190,7 +190,7 @@
       "topspeed": 350,
       "concept_car": false,
       "date_first_produced": "2011-02-28",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lamborghini_Aventador_LP_750-4_SV_%282%29.jpg/1200px-Lamborghini_Aventador_LP_750-4_SV_%282%29.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/aventador.png",
       "type": "coupe",
       "features": [
         "scissor doors",
@@ -201,7 +201,7 @@
         "id": "BRAND-009",
         "name": "Lamborghini",
         "Country": "Italy",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/lamborghini.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/lamborghini.png",
         "foundedYear": 1963,
         "website": "www.lamborghini.com"
       }
@@ -213,7 +213,7 @@
       "topspeed": 220,
       "concept_car": false,
       "date_first_produced": "1972-07-11",
-      "image_url": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/honda.png",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/civic.png",
       "type": "sedan",
       "features": [
         "fuel efficiency",
@@ -224,7 +224,7 @@
         "id": "BRAND-010",
         "name": "Honda",
         "Country": "Japan",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Honda_logo.svg/2560px-Honda_logo.svg.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/honda.png",
         "foundedYear": 1948,
         "website": "www.honda.com"
       }
@@ -247,7 +247,7 @@
         "id": "BRAND-011",
         "name": "Chevrolet",
         "Country": "USA",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/chevrolet.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/chevrolet.png",
         "foundedYear": 1911,
         "website": "www.chevrolet.com"
       }
@@ -270,7 +270,7 @@
         "id": "BRAND-012",
         "name": "Audi",
         "Country": "Germany",
-        "Logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/master/logos/optimized/audi.png",
+        "Logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/master/logos/audi.png",
         "foundedYear": 1910,
         "website": "www.audi.com"
       }
@@ -293,7 +293,7 @@
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/toyota.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/toyota.png",
         "foundedYear": 1937,
         "website": "www.toyota.com"
       }
@@ -316,7 +316,7 @@
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/toyota.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/toyota.png",
         "foundedYear": 1937,
         "website": "www.toyota.com"
       }
@@ -385,7 +385,7 @@
         "id": "BRAND-004",
         "name": "Ford",
         "Country": "USA",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/ford.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/ford.png",
         "foundedYear": 1903,
         "website": "www.ford.com"
       }
@@ -408,7 +408,7 @@
         "id": "BRAND-013",
         "name": "Opel",
         "Country": "Germany",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/opel.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/opel.png",
         "foundedYear": 1862,
         "website": "www.opel.com"
       }
@@ -431,7 +431,7 @@
         "id": "BRAND-014",
         "name": "Rolls Royce",
         "Country": "UK",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/rolls-royce.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/rolls-royce.png",
         "foundedYear": 1904,
         "website": "www.rolls-roycemotorcars.com"
       }
@@ -454,7 +454,7 @@
         "id": "BRAND-015",
         "name": "Bentley",
         "Country": "UK",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/bentley.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/bentley.png",
         "foundedYear": 1919,
         "website": "www.bentleymotors.com"
       }
@@ -500,7 +500,7 @@
         "id": "BRAND-016",
         "name": "Aston Martin",
         "Country": "United Kingdom",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/aston-martin.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/aston-martin.png",
         "foundedYear": 1913,
         "website": "www.astonmartin.com"
       }
@@ -523,7 +523,7 @@
         "id": "BRAND-016",
         "name": "Aston Martin",
         "Country": "United Kingdom",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/aston-martin.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/aston-martin.png",
         "foundedYear": 1913,
         "website": "www.astonmartin.com"
       }
@@ -546,7 +546,7 @@
         "id": "BRAND-017",
         "name": "Volvo",
         "Country": "Sweden",
-        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/optimized/volvo.png",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volvo.png",
         "foundedYear": 1927,
         "website": "www.volvocars.com"
       }
