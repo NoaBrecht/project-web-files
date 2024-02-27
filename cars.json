@@ -13,7 +13,7 @@
         "vented disc brakes",
         "rear spoiler"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-001",
         "name": "Porsche",
         "Country": "Germany",
@@ -36,7 +36,7 @@
         "LED headlights",
         "Bose sound system"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-002",
         "name": "Mazda",
         "Country": "Japan",
@@ -59,7 +59,7 @@
         "lane-keeping assist",
         "surround-view camera"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-003",
         "name": "Hyundai",
         "Country": "South Korea",
@@ -82,7 +82,7 @@
         "drag racing",
         "roaring"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-004",
         "name": "Ford",
         "Country": "USA",
@@ -105,7 +105,7 @@
         "eco-friendly",
         "recycling"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
@@ -128,7 +128,7 @@
         "cornering",
         "impressing"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-006",
         "name": "Ferrari",
         "Country": "Italy",
@@ -151,7 +151,7 @@
         "camping",
         "flower power"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-007",
         "name": "Volkswagen",
         "Country": "Germany",
@@ -174,7 +174,7 @@
         "rallying",
         "escaping"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-008",
         "name": "Mini",
         "Country": "UK",
@@ -197,7 +197,7 @@
         "carbon fiber",
         "V12 engine"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-009",
         "name": "Lamborghini",
         "Country": "Italy",
@@ -220,7 +220,7 @@
         "safety",
         "versatility"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-010",
         "name": "Honda",
         "Country": "Japan",
@@ -243,7 +243,7 @@
         "pop-up headlights",
         "crossed flags emblem"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-011",
         "name": "Chevrolet",
         "Country": "USA",
@@ -266,7 +266,7 @@
         "LED headlights",
         "adaptive cruise control"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-012",
         "name": "Audi",
         "Country": "Germany",
@@ -289,7 +289,7 @@
         "reliability",
         "space"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
@@ -312,7 +312,7 @@
         "durability",
         "luxury"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-005",
         "name": "Toyota",
         "Country": "Japan",
@@ -335,7 +335,7 @@
         "adaptive suspension",
         "panoramic roof"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-001",
         "name": "Porsche",
         "Country": "Germany",
@@ -358,7 +358,7 @@
         "premium interior",
         "LED headlights"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-001",
         "name": "Porsche",
         "Country": "Germany",
@@ -381,7 +381,7 @@
         "SYNC system",
         "active park assist"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-004",
         "name": "Ford",
         "Country": "USA",
@@ -404,7 +404,7 @@
         "multimedia system",
         "lane assist"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-013",
         "name": "Opel",
         "Country": "Germany",
@@ -427,7 +427,7 @@
         "bespoke audio",
         "picnic tables"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-014",
         "name": "Rolls Royce",
         "Country": "UK",
@@ -450,7 +450,7 @@
         "aluminium pistons",
         "four-speed gearbox"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-015",
         "name": "Bentley",
         "Country": "UK",
@@ -473,7 +473,7 @@
         "impeccable steering feel",
         "premium interior"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-001",
         "name": "Porsche",
         "Country": "Germany",
@@ -496,7 +496,7 @@
         "satin black carbon fiber body",
         "21-inch forged center lock alloy wheels"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-016",
         "name": "Aston Martin",
         "Country": "United Kingdom",
@@ -519,7 +519,7 @@
         "active aerodynamics with variable air inlets",
         "lightweight carbon fiber bodywork"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-016",
         "name": "Aston Martin",
         "Country": "United Kingdom",
@@ -542,7 +542,7 @@
         "integrated Google services",
         "advanced safety systems"
       ],
-      "Brand": {
+      "brand": {
         "id": "BRAND-017",
         "name": "Volvo",
         "Country": "Sweden",
