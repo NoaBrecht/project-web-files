@@ -236,7 +236,7 @@
       "topspeed": 312,
       "concept_car": false,
       "date_first_produced": "1953-06-30",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2019_Chevrolet_Corvette_ZR1_%283%29.jpg/1200px-2019_Chevrolet_Corvette_ZR1_%283%29.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/corvette.png",
       "type": "coupe",
       "features": [
         "fiberglass body",
@@ -259,7 +259,7 @@
       "topspeed": 250,
       "concept_car": false,
       "date_first_produced": "1994-06-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Audi_A6_C8_Limousine_50_TDI_quattro_S-line.jpg/1200px-Audi_A6_C8_Limousine_50_TDI_quattro_S-line.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/A6.png",
       "type": "sedan",
       "features": [
         "MMI system",
@@ -282,7 +282,7 @@
       "topspeed": 210,
       "concept_car": false,
       "date_first_produced": "1982-03-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2018_Toyota_Camry_%28ASV70R%29_SL_sedan_%282018-08-24%29_01.jpg/1200px-2018_Toyota_Camry_%28ASV70R%29_SL_sedan_%282018-08-24%29_01.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/camry.png",
       "type": "sedan",
       "features": [
         "comfort",
@@ -305,7 +305,7 @@
       "topspeed": 220,
       "concept_car": false,
       "date_first_produced": "1951-08-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2018_Toyota_Land_Cruiser_%28VDJ200R%29_GXL_wagon_%282018-11-02%29_01.jpg/1200px-2018_Toyota_Land_Cruiser_%28VDJ200R%29_GXL_wagon_%282018-11-02%29_01.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/landcruiser.png",
       "type": "SUV",
       "features": [
         "off-road capability",
@@ -328,7 +328,7 @@
       "topspeed": 286,
       "concept_car": false,
       "date_first_produced": "2002-09-03",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2018_Porsche_Cayenne_S_3.0_Front.jpg/1200px-2018_Porsche_Cayenne_S_3.0_Front.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/cayenne.png",
       "type": "SUV",
       "features": [
         "turbocharged engines",
@@ -374,7 +374,7 @@
       "topspeed": 250,
       "concept_car": false,
       "date_first_produced": "1998-08-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2018_Ford_Focus_ST-Line_X_1.0_Front.jpg/1200px-2018_Ford_Focus_ST-Line_X_1.0_Front.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/focus.png",
       "type": "hatchback",
       "features": [
         "turbocharged engine",
