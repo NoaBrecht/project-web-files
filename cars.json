@@ -397,7 +397,7 @@
       "topspeed": 195,
       "concept_car": false,
       "date_first_produced": "1982-09-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Opel_Corsa_F_1.2_Innovation_%28E%29_%E2%80%93_Frontansicht%2C_29._Februar_2020%2C_D%C3%BCsseldorf.jpg/1200px-Opel_Corsa_F_1.2_Innovation_%28E%29_%E2%80%93_Frontansicht%2C_29._Februar_2020%2C_D%C3%BCsseldorf.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/corsa.png",
       "type": "hatchback",
       "features": [
         "electric option",
@@ -420,7 +420,7 @@
       "topspeed": 250,
       "concept_car": false,
       "date_first_produced": "2003-01-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rolls-Royce_Phantom_VIII_2018.jpg/1200px-Rolls-Royce_Phantom_VIII_2018.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/phantom.png",
       "type": "sedan",
       "features": [
         "starlight headliner",
@@ -443,7 +443,7 @@
       "topspeed": 160,
       "concept_car": false,
       "date_first_produced": "1926-10-01",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bentley_6%C2%BD_Litre_1927.jpg/1200px-Bentley_6%C2%BD_Litre_1927.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/6liter.png",
       "type": "tourer",
       "features": [
         "six-cylinder engine",
@@ -466,7 +466,7 @@
       "topspeed": 308,
       "concept_car": false,
       "date_first_produced": "1963-09-12",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Porsche_911_Carrera_S_II_%28Typ_991%29_%E2%80%93_Frontansicht%2C_31._M%C3%A4rz_2012%2C_D%C3%BCsseldorf.jpg/1200px-Porsche_911_Carrera_S_II_%28Typ_991%29_%E2%80%93_Frontansicht%2C_31._M%C3%A4rz_2012%2C_D%C3%BCsseldorf.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/911GT3.png",
       "type": "fastback",
       "features": [
         "twin-turbo flat-six engines",
@@ -489,7 +489,7 @@
       "topspeed": 300,
       "concept_car": true,
       "date_first_produced": "2021-10-20",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aston_Martin_V12_Speedster_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg/1200px-Aston_Martin_V12_Speedster_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/V12.png",
       "type": "speedster",
       "features": [
         "no roof or windshield",
@@ -512,7 +512,7 @@
       "topspeed": 330,
       "concept_car": true,
       "date_first_produced": "2023-06-30",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aston_Martin_Valhalla_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg/1200px-Aston_Martin_Valhalla_%28Typ_003%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/valhalla.png",
       "type": "supercar",
       "features": [
         "turbocharged V6 engine with electric motors",
@@ -535,7 +535,7 @@
       "topspeed": 250,
       "concept_car": false,
       "date_first_produced": "2010-07-22",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Volvo_V60_D4_R-Design_%28II%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg/1200px-Volvo_V60_D4_R-Design_%28II%29_%E2%80%93_Frontansicht%2C_9._M%C3%A4rz_2020%2C_Genf.jpg",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/v60.png",
       "type": "station wagon",
       "features": [
         "plug-in hybrid option",
