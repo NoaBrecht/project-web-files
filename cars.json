@@ -550,5 +550,28 @@
         "foundedYear": 1927,
         "website": "www.volvocars.com"
       }
+    },
+    {
+      "id": "CAR-025",
+      "name": "V90",
+      "description": "A luxurious and versatile station wagon that combines elegant design, a spacious interior, and a range of efficient powertrains, developed by Swedish automaker Volvo.",
+      "topspeed": 155,
+      "concept_car": false,
+      "date_first_produced": "2016-02-18",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/v90.png",
+      "type": "station wagon",
+      "features": [
+        "hybrid powertrain options",
+        "luxurious interior materials",
+        "advanced infotainment system"
+      ],
+      "brand": {
+        "id": "BRAND-017",
+        "name": "Volvo",
+        "Country": "Sweden",
+        "Logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volvo.png",
+        "foundedYear": 1927,
+        "website": "www.volvocars.com"
+      }
     }
   ]
