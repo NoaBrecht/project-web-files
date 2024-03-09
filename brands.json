@@ -142,6 +142,22 @@
   "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/bmw.png",
   "foundedYear": 1916,
   "website": "www.bmw.com"
-}
+},
+    {
+  "id": "BRAND-019",
+  "name": "Jaguar",
+  "country": "United Kingdom",
+  "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/jaguar.png",
+  "foundedYear": 1922,
+  "website": "www.jaguar.com"
+},
+{
+  "id": "BRAND-020",
+  "name": "Land Rover",
+  "country": "United Kingdom",
+  "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/land-rover.png",
+  "foundedYear": 1948,
+  "website": "www.landrover.com"
+},
 
 ]
