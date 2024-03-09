@@ -134,5 +134,14 @@
     "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/volvo.png",
     "foundedYear": 1927,
     "website": "www.volvocars.com"
-  }
+  },
+  {
+  "id": "BRAND-018",
+  "name": "BMW",
+  "country": "Germany",
+  "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/bmw.png",
+  "foundedYear": 1916,
+  "website": "www.bmw.com"
+}
+
 ]
