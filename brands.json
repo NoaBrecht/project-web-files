@@ -58,7 +58,7 @@
   {
     "id": "BRAND-008",
     "name": "Mini",
-    "country": "UK",
+    "country": "United Kingdom",
     "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/mini.png",
     "foundedYear": 1959,
     "website": "www.mini.com"
@@ -106,7 +106,7 @@
   {
     "id": "BRAND-014",
     "name": "Rolls Royce",
-    "country": "UK",
+    "country": "United Kingdom",
     "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/rolls-royce.png",
     "foundedYear": 1904,
     "website": "www.rolls-roycemotorcars.com"
@@ -114,7 +114,7 @@
   {
     "id": "BRAND-015",
     "name": "Bentley",
-    "country": "UK",
+    "country": "United Kingdom",
     "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/bentley.png",
     "foundedYear": 1919,
     "website": "www.bentleymotors.com"
