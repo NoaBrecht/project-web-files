@@ -148,9 +148,9 @@
       "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/beetle.png",
       "type": "sedan",
       "features": [
-        "traveling",
-        "camping",
-        "flower power"
+        "Efficient Commuter",
+        "Charming Interior",
+        "Cultural Icon"
       ],
       "brand": {
         "id": "BRAND-007",
