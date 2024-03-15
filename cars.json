@@ -77,9 +77,11 @@
       "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/mustang.png",
       "type": "coupe",
       "features": [
-        "burning rubber",
-        "drag racing",
-        "roaring"
+        "5.0-liter V8 with 450hp",
+        "Interior Comfort and Technology",
+        "Driving Dynamics",
+        "Handling and Control",
+        "Aggressive Styling"
       ],
       "brand": {
         "id": "BRAND-004",
@@ -491,7 +493,6 @@
       "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/V12.png",
       "type": "speedster",
       "features": [
-        "no roof or windshield",
         "satin black carbon fiber body",
         "21-inch forged center lock alloy wheels"
       ],
