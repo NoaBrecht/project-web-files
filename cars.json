@@ -573,5 +573,26 @@
         "foundedYear": 1927,
         "website": "www.volvocars.com"
       }
+    },
+        {
+      "id": "CAR-025",
+      "name": "H1",
+      "description": "A four-wheel-drive utility vehicle based on the M998 Humvee, originally developed by AM General for military use. Later released to the civilian market.",
+      "topspeed": 164,
+      "concept_car": false,
+      "date_first_produced": "1992-07-22",
+      "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/H1.png",
+      "type": "SUV",
+      "features": [
+        "Robust Design"
+      ],
+      "brand": {
+        "BRAND-021": {
+        "name": "Hummer",
+        "country": "United States",
+        "foundedYear": 1992,
+        "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/hummer.png",
+        "website": "www.hummer.com"
+      }
     }
   ]
