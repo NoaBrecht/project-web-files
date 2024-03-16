@@ -158,5 +158,12 @@
         "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/land-rover.png",
         "foundedYear": 1948,
         "website": "www.landrover.com"
+    },
+        "BRAND-021": {
+        "name": "Hummer",
+        "country": "United States",
+        "foundedYear": 1992,
+        "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/hummer.png",
+        "website": "www.hummer.com"
     }
 ]
