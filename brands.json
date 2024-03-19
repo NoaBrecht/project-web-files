@@ -159,7 +159,8 @@
         "foundedYear": 1948,
         "website": "www.landrover.com"
     },
-        "BRAND-021": {
+    {
+        "id": "BRAND-021",
         "name": "Hummer",
         "country": "United States",
         "foundedYear": 1992,
