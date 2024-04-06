@@ -600,7 +600,7 @@
     },
     {
         "id": "CAR-027",
-        "name": "Porsche Vision Renndienst",
+        "name": "Vision Renndienst",
         "description": "Last year, Porsche created a book, Porsche Unseen, featuring 15 never-before-seen design studies. One of those cars was the Renndienst. Styled on the VW racing service van (‘renn’ is a shortened form of the German word ‘rennen’, or racing, while ‘dienst’ means service) that was used by the factory racing team, this futuristic minivan has room for six people and features a modular travel cabin. Importantly, this being a Porsche, the Renndienst is more than just a practical bus. Combining sportiness with comfort, the driver sits in a central lounge chair, which gives the passengers a greater view of the road ahead and takes up less cabin space than a conventional row of seats. The 2018 Renndienst also features all-electric drive and autonomous capability and hints at an exciting future for the sportscar brand. (source: https://www.porsche.com/stories/innovation/five-porsche-concept-cars)",
         "topspeed": 186,
         "concept_car": true,
