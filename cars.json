@@ -140,7 +140,7 @@
     },
     {
         "id": "CAR-007",
-        "name": "Aston Martin DB5",
+        "name": "DB5",
         "description": "The iconic British sports car featured in several James Bond films. Known for its elegant design, advanced gadgets, and timeless appeal.",
         "topspeed": 233,
         "concept_car": false,
