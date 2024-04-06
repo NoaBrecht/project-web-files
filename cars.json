@@ -7,7 +7,7 @@
         "concept_car": false,
         "date_first_produced": "1963-09-12",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/911_1963.png",
-        "type": "coupe",
+        "type": "coupé",
         "features": [
             "air cooled six-cilinder flat engine",
             "vented disc brakes",
@@ -75,7 +75,7 @@
         "concept_car": false,
         "date_first_produced": "1964-04-17",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/mustang.png",
-        "type": "coupe",
+        "type": "coupé",
         "features": [
             "5.0-liter V8 with 450hp",
             "Interior Comfort and Technology",
@@ -140,25 +140,28 @@
     },
     {
         "id": "CAR-007",
-        "name": "Beetle",
-        "description": "A compact car with a rear-engine, rear-wheel-drive layout and a rounded shape, produced by German company Volkswagen",
-        "topspeed": 150,
+        "name": "Aston Martin DB5",
+        "description": "The iconic British sports car featured in several James Bond films. Known for its elegant design, advanced gadgets, and timeless appeal.",
+        "topspeed": 233,
         "concept_car": false,
-        "date_first_produced": "1938-07-10",
-        "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/beetle.png",
-        "type": "sedan",
+        "date_first_produced": "1963-07-03",
+        "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/DB5.png",
+        "type": "coupé",
         "features": [
-            "Efficient Commuter",
-            "Charming Interior",
-            "Cultural Icon"
+            "Ejector seat",
+            "Machine guns",
+            "Bulletproof shield",
+            "smoke screen",
+            "tire slashers",
+            "rotating license plates"
         ],
         "brand": {
-            "id": "BRAND-007",
-            "name": "Volkswagen",
-            "country": "Germany",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volkswagen.png",
-            "foundedYear": 1937,
-            "website": "www.vw.com"
+            "id": "BRAND-016",
+            "name": "Aston Martin",
+            "country": "United Kingdom",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/aston-martin.png",
+            "foundedYear": 1913,
+            "website": "www.astonmartin.com"
         }
     },
     {
@@ -192,7 +195,7 @@
         "concept_car": false,
         "date_first_produced": "2011-02-28",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/aventador.png",
-        "type": "coupe",
+        "type": "coupé",
         "features": [
             "scissor doors",
             "carbon fiber",
@@ -238,7 +241,7 @@
         "concept_car": false,
         "date_first_produced": "1953-06-30",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/corvette.png",
-        "type": "coupe",
+        "type": "coupé",
         "features": [
             "fiberglass body",
             "pop-up headlights",
@@ -617,6 +620,29 @@
             "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/porsche.png",
             "foundedYear": 1931,
             "website": "www.porsche.com"
+        }
+    },
+    {
+        "id": "CAR-028",
+        "name": "Beetle",
+        "description": "A compact car with a rear-engine, rear-wheel-drive layout and a rounded shape, produced by German company Volkswagen",
+        "topspeed": 150,
+        "concept_car": false,
+        "date_first_produced": "1938-07-10",
+        "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/beetle.png",
+        "type": "sedan",
+        "features": [
+            "Efficient Commuter",
+            "Charming Interior",
+            "Cultural Icon"
+        ],
+        "brand": {
+            "id": "BRAND-007",
+            "name": "Volkswagen",
+            "country": "Germany",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volkswagen.png",
+            "foundedYear": 1937,
+            "website": "www.vw.com"
         }
     }
 ]
