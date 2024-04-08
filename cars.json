@@ -140,7 +140,7 @@
     },
     {
         "id": "CAR-007",
-        "name": "DB5",
+        "name": "Aston Martin DB5",
         "description": "The iconic British sports car featured in several James Bond films. Known for its elegant design, advanced gadgets, and timeless appeal.",
         "topspeed": 233,
         "concept_car": false,
@@ -600,7 +600,7 @@
     },
     {
         "id": "CAR-027",
-        "name": "Vision Renndienst",
+        "name": "Porsche Vision Renndienst",
         "description": "Last year, Porsche created a book, Porsche Unseen, featuring 15 never-before-seen design studies. One of those cars was the Renndienst. Styled on the VW racing service van (‘renn’ is a shortened form of the German word ‘rennen’, or racing, while ‘dienst’ means service) that was used by the factory racing team, this futuristic minivan has room for six people and features a modular travel cabin. Importantly, this being a Porsche, the Renndienst is more than just a practical bus. Combining sportiness with comfort, the driver sits in a central lounge chair, which gives the passengers a greater view of the road ahead and takes up less cabin space than a conventional row of seats. The 2018 Renndienst also features all-electric drive and autonomous capability and hints at an exciting future for the sportscar brand. (source: https://www.porsche.com/stories/innovation/five-porsche-concept-cars)",
         "topspeed": 186,
         "concept_car": true,
@@ -643,6 +643,28 @@
             "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volkswagen.png",
             "foundedYear": 1937,
             "website": "www.vw.com"
+        }
+    },
+    {
+        "id": "CAR-029",
+        "name": "Model S",
+        "description": "An all-electric luxury sedan with cutting-edge technology and impressive performance, produced by American company Tesla",
+        "topspeed": 200,
+        "concept_car": false,
+        "date_first_produced": "2012-06-22",
+        "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/model_s.png",
+        "type": "sedan",
+        "features": [
+            "Autopilot",
+            "Large touchscreen display"
+        ],
+        "brand": {
+            "id": "BRAND-012",
+            "name": "Tesla",
+            "country": "United States",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/tesla.png",
+            "foundedYear": 2003,
+            "website": "www.tesla.com"
         }
     }
 ]
