@@ -666,5 +666,28 @@
             "foundedYear": 2003,
             "website": "www.tesla.com"
         }
+    },
+    {
+        "id": "CAR-030",
+        "name": "Ghost",
+        "description": "A luxurious sedan with a blend of performance, refinement, and cutting-edge technology, crafted by the esteemed British automaker Rolls Royce.",
+        "topspeed": 250,
+        "concept_car": false,
+        "date_first_produced": "2010-01-01",
+        "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/ghost.png",
+        "type": "sedan",
+        "features": [
+            "panoramic sunroof",
+            "illuminated fascia",
+            "bespoke cabin finishes"
+        ],
+        "brand": {
+            "id": "BRAND-014",
+            "name": "Rolls Royce",
+            "country": "UK",
+            "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/blob/master/rolls-royce.png",
+            "foundedYear": 1904,
+            "website": "www.rolls-roycemotorcars.com"
+        }
     }
 ]
