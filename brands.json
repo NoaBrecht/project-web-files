@@ -167,12 +167,12 @@
         "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/hummer.png",
         "website": "www.hummer.com"
     },
-            "brand": {
-            "id": "BRAND-012",
+    {
+            "id": "BRAND-022",
             "name": "Tesla",
             "country": "United States",
             "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/tesla.png",
             "foundedYear": 2003,
             "website": "www.tesla.com"
-        }
+    }
 ]
