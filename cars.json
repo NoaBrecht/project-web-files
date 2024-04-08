@@ -62,7 +62,7 @@
             "id": "BRAND-003",
             "name": "Hyundai",
             "country": "South Korea",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/hyundai.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/hyundai.png",
             "foundedYear": 1967,
             "website": "www.hyundai.com"
         }
@@ -87,7 +87,7 @@
             "id": "BRAND-004",
             "name": "Ford",
             "country": "USA",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/ford.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/ford.png",
             "foundedYear": 1903,
             "website": "www.ford.com"
         }
@@ -110,7 +110,7 @@
             "id": "BRAND-005",
             "name": "Toyota",
             "country": "Japan",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/toyota.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/toyota.png",
             "foundedYear": 1937,
             "website": "www.toyota.com"
         }
@@ -133,7 +133,7 @@
             "id": "BRAND-006",
             "name": "Ferrari",
             "country": "Italy",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/ferrari.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/ferrari.png",
             "foundedYear": 1947,
             "website": "www.ferrari.com"
         }
@@ -159,7 +159,7 @@
             "id": "BRAND-016",
             "name": "Aston Martin",
             "country": "United Kingdom",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/aston-martin.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/aston-martin.png",
             "foundedYear": 1913,
             "website": "www.astonmartin.com"
         }
@@ -182,7 +182,7 @@
             "id": "BRAND-008",
             "name": "Mini",
             "country": "UK",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/mini.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/mini.png",
             "foundedYear": 1959,
             "website": "www.mini.com"
         }
@@ -205,7 +205,7 @@
             "id": "BRAND-009",
             "name": "Lamborghini",
             "country": "Italy",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/lamborghini.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/lamborghini.png",
             "foundedYear": 1963,
             "website": "www.lamborghini.com"
         }
@@ -228,7 +228,7 @@
             "id": "BRAND-010",
             "name": "Honda",
             "country": "Japan",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/honda.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/honda.png",
             "foundedYear": 1948,
             "website": "www.honda.com"
         }
@@ -251,7 +251,7 @@
             "id": "BRAND-011",
             "name": "Chevrolet",
             "country": "USA",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/chevrolet.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/chevrolet.png",
             "foundedYear": 1911,
             "website": "www.chevrolet.com"
         }
@@ -274,7 +274,7 @@
             "id": "BRAND-012",
             "name": "Audi",
             "country": "Germany",
-            "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/master/logos/audi.png",
+            "logo": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/master/audi.png",
             "foundedYear": 1910,
             "website": "www.audi.com"
         }
@@ -297,7 +297,7 @@
             "id": "BRAND-005",
             "name": "Toyota",
             "country": "Japan",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/toyota.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/toyota.png",
             "foundedYear": 1937,
             "website": "www.toyota.com"
         }
@@ -320,7 +320,7 @@
             "id": "BRAND-005",
             "name": "Toyota",
             "country": "Japan",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/toyota.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/toyota.png",
             "foundedYear": 1937,
             "website": "www.toyota.com"
         }
@@ -389,7 +389,7 @@
             "id": "BRAND-004",
             "name": "Ford",
             "country": "USA",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/ford.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/ford.png",
             "foundedYear": 1903,
             "website": "www.ford.com"
         }
@@ -412,7 +412,7 @@
             "id": "BRAND-013",
             "name": "Opel",
             "country": "Germany",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/opel.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/opel.png",
             "foundedYear": 1862,
             "website": "www.opel.com"
         }
@@ -435,7 +435,7 @@
             "id": "BRAND-014",
             "name": "Rolls Royce",
             "country": "UK",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/rolls-royce.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/rolls-royce.png",
             "foundedYear": 1904,
             "website": "www.rolls-roycemotorcars.com"
         }
@@ -458,7 +458,7 @@
             "id": "BRAND-015",
             "name": "Bentley",
             "country": "UK",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/bentley.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/bentley.png",
             "foundedYear": 1919,
             "website": "www.bentleymotors.com"
         }
@@ -503,7 +503,7 @@
             "id": "BRAND-016",
             "name": "Aston Martin",
             "country": "United Kingdom",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/aston-martin.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/aston-martin.png",
             "foundedYear": 1913,
             "website": "www.astonmartin.com"
         }
@@ -526,7 +526,7 @@
             "id": "BRAND-016",
             "name": "Aston Martin",
             "country": "United Kingdom",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/aston-martin.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/aston-martin.png",
             "foundedYear": 1913,
             "website": "www.astonmartin.com"
         }
@@ -549,7 +549,7 @@
             "id": "BRAND-017",
             "name": "Volvo",
             "country": "Sweden",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volvo.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/volvo.png",
             "foundedYear": 1927,
             "website": "www.volvocars.com"
         }
@@ -572,7 +572,7 @@
             "id": "BRAND-017",
             "name": "Volvo",
             "country": "Sweden",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volvo.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/volvo.png",
             "foundedYear": 1927,
             "website": "www.volvocars.com"
         }
@@ -640,7 +640,7 @@
             "id": "BRAND-007",
             "name": "Volkswagen",
             "country": "Germany",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/volkswagen.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/volkswagen.png",
             "foundedYear": 1937,
             "website": "www.vw.com"
         }
@@ -662,7 +662,7 @@
             "id": "BRAND-022",
             "name": "Tesla",
             "country": "United States",
-            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/logos/tesla.png",
+            "logo": "https://github.com/NoaBrecht/project-web-files/blob/master/tesla.png",
             "foundedYear": 2003,
             "website": "www.tesla.com"
         }
