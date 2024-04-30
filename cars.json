@@ -310,7 +310,7 @@
         "concept_car": false,
         "date_first_produced": "1951-08-01",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/landcruiser.png",
-        "type": "SUV",
+        "type": "suv",
         "features": [
             "off-road capability",
             "durability",
@@ -333,7 +333,7 @@
         "concept_car": false,
         "date_first_produced": "2002-09-03",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/cayenne.png",
-        "type": "SUV",
+        "type": "suv",
         "features": [
             "turbocharged engines",
             "adaptive suspension",
@@ -356,7 +356,7 @@
         "concept_car": false,
         "date_first_produced": "2014-02-20",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/macan.png",
-        "type": "SUV",
+        "type": "suv",
         "features": [
             "sporty handling",
             "premium interior",
@@ -585,7 +585,7 @@
         "concept_car": false,
         "date_first_produced": "1992-07-22",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/H1.png",
-        "type": "SUV",
+        "type": "suv",
         "features": [
             "Robust Design"
         ],
@@ -606,7 +606,7 @@
         "concept_car": true,
         "date_first_produced": "2018-04-04",
         "image_url": "https://raw.githubusercontent.com/NoaBrecht/project-web-files/main/Vision_Renndienst.png",
-        "type": "SUV",
+        "type": "suv",
         "features": [
             "Advanced autonomous driving capabilities",
             "Spacious interior with flexible seating arrangements",
